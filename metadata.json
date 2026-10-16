@@ -1,0 +1,6 @@
+{
+  "name": "Nexus 50: Multi-Agent Market Intelligence & CEO Command",
+  "description": "Enterprise multi-agent autonomous market intelligence platform monitoring 10 Forex pairs and 40 Deriv synthetic indices with real-time Deriv WebSocket feeds, 3D fleet visualization, and automated CEO reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
